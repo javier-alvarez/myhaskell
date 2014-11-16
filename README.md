@@ -1,0 +1,4 @@
+myhaskell
+=========
+
+Haskell katas
